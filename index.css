@@ -902,7 +902,6 @@ footer.footer {
         justify-content: center;
         align-items: center;
         margin-bottom: 5%;
-        opacity: 0;
         transition: opacity 0.8s, transform 0.3s ease-in-out;
 
     }
