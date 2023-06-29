@@ -622,7 +622,7 @@ footer.footer {
     .personal-image {
         position: absolute;
         left: 21%;
-        top: 22%;
+        top: 19%;
         z-index: 1000;
     }
     .personal-image img {
