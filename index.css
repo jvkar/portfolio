@@ -209,7 +209,7 @@ button.contact-btn:hover{
     height: 32rem;
     width: 18%;
     position: relative;
-    right: 13%;
+    right: 23%;
     margin-top: 21%;
 }
 .titles{
@@ -298,7 +298,7 @@ h1.level2 {
     width: 31%;
     position: relative;
     margin-top: 15%;
-    right: 5%;
+    right: 15%;
 }
 .skill-cards{
     display: flex;
@@ -343,7 +343,7 @@ h1.level2 {
 img.fifthpage-img {
     position: absolute;
     top: 41%;
-    left: 11%;
+    left: 17%;
     height: 65%;
     width: 26%;
 }
