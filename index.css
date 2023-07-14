@@ -374,6 +374,7 @@ img.fifthpage-img {
     box-shadow: 17px 10px 20px -1px #0000002e;
     transition: opacity 0.8s, transform 0.3s ease-in-out;
     opacity: 0;
+    margin:5px;
 }
 .groupe2 {
     display: flex;
@@ -391,6 +392,8 @@ img.fifthpage-img {
 }
 .project-cards .groupe2 img{
     transition: transform 0.3s ease-in-out;
+      height: 32px;
+
 }
 .project-cards .groupe2 img:hover{
 transform: scale(1.2);
@@ -877,7 +880,7 @@ footer.footer {
         box-shadow: 17px 10px 20px -1px #0000002e;
         opacity: 0;
         transition: opacity 0.8s, transform 0.3s ease-in-out;
-
+        margin:5px;
     }
     .groupe2 {
         display: flex;
@@ -888,8 +891,7 @@ footer.footer {
         margin-top: 9%;
     }
     .project-cards .groupe2 img {
-        height: 71%;
-        width: 24%;
+        width: 80%;
     }
     .groupe2 h2 {
         font-size: 170%;
